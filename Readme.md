@@ -1,4 +1,4 @@
-Markdown
+
 # Gemini Search Growth & Discover Optimizer
 
 A production-grade reference architecture and multivariate experimentation framework designed to solve a core economic friction in generative search: maximizing commercial query continuation and multi-turn session depth in AI Overviews and AI Mode without regressing P99 latency SLAs or user trust.
